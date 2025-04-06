@@ -53,3 +53,9 @@ This repository provides the source code for the CCO algorithm, enabling its use
 - **GSF**: Grey Sail Fish Optimization
 - **PSO**: Particle Swarm Optimization
 
+
+
+### 🔗 Run on Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/INFO-3604-Project/Cattle-Corral-Project/blob/main/main.ipynb)
+
