@@ -1,4 +1,5 @@
-# A Novel, Meta Heuristic, Nature Inspired, Feature Selection Algorithm: Cattle Corral Optimization Algorithm (CCO)
+# Cattle Corral Optimization Algorithm (CCO)
+## A Novel, Meta Heuristic, Nature Inspired, Feature Selection Algorithm
 
 ## Overview
 
